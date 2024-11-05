@@ -1,0 +1,35 @@
+[0.546s] Invoking command in '/home/kan/ros2_test_ws/src/my_package': PYTHONPATH=/home/kan/ros2_test_ws/build/my_package/prefix_override:/home/kan/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/kan/ros2_test_ws/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_package build --build-base /home/kan/ros2_test_ws/build/my_package/build install --record /home/kan/ros2_test_ws/build/my_package/install.log --single-version-externally-managed install_data
+[0.650s] /home/kan/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[0.650s]   warnings.warn(msg)
+[0.716s] running egg_info
+[0.726s] creating ../../build/my_package/my_package.egg-info
+[0.726s] writing ../../build/my_package/my_package.egg-info/PKG-INFO
+[0.726s] writing dependency_links to ../../build/my_package/my_package.egg-info/dependency_links.txt
+[0.727s] writing entry points to ../../build/my_package/my_package.egg-info/entry_points.txt
+[0.727s] writing requirements to ../../build/my_package/my_package.egg-info/requires.txt
+[0.727s] writing top-level names to ../../build/my_package/my_package.egg-info/top_level.txt
+[0.727s] writing manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[0.750s] reading manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[0.751s] writing manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[0.751s] running build
+[0.751s] running build_py
+[0.751s] creating /home/kan/ros2_test_ws/build/my_package/build/lib/my_package
+[0.751s] copying my_package/__init__.py -> /home/kan/ros2_test_ws/build/my_package/build/lib/my_package
+[0.752s] copying my_package/my_node.py -> /home/kan/ros2_test_ws/build/my_package/build/lib/my_package
+[0.752s] running install
+[0.755s] running install_lib
+[0.767s] creating /home/kan/ros2_test_ws/install/my_package/lib/python3.10/site-packages/my_package
+[0.767s] copying /home/kan/ros2_test_ws/build/my_package/build/lib/my_package/__init__.py -> /home/kan/ros2_test_ws/install/my_package/lib/python3.10/site-packages/my_package
+[0.767s] copying /home/kan/ros2_test_ws/build/my_package/build/lib/my_package/my_node.py -> /home/kan/ros2_test_ws/install/my_package/lib/python3.10/site-packages/my_package
+[0.767s] byte-compiling /home/kan/ros2_test_ws/install/my_package/lib/python3.10/site-packages/my_package/__init__.py to __init__.cpython-310.pyc
+[0.767s] byte-compiling /home/kan/ros2_test_ws/install/my_package/lib/python3.10/site-packages/my_package/my_node.py to my_node.cpython-310.pyc
+[0.767s] running install_data
+[0.768s] creating /home/kan/ros2_test_ws/install/my_package/share/ament_index/resource_index/packages
+[0.768s] copying resource/my_package -> /home/kan/ros2_test_ws/install/my_package/share/ament_index/resource_index/packages
+[0.768s] copying package.xml -> /home/kan/ros2_test_ws/install/my_package/share/my_package
+[0.768s] running install_egg_info
+[0.780s] Copying ../../build/my_package/my_package.egg-info to /home/kan/ros2_test_ws/install/my_package/lib/python3.10/site-packages/my_package-0.0.0-py3.10.egg-info
+[0.780s] running install_scripts
+[0.872s] Installing my_node script to /home/kan/ros2_test_ws/install/my_package/lib/my_package
+[0.872s] writing list of installed files to '/home/kan/ros2_test_ws/build/my_package/install.log'
+[0.892s] Invoked command in '/home/kan/ros2_test_ws/src/my_package' returned '0': PYTHONPATH=/home/kan/ros2_test_ws/build/my_package/prefix_override:/home/kan/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/kan/ros2_test_ws/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_package build --build-base /home/kan/ros2_test_ws/build/my_package/build install --record /home/kan/ros2_test_ws/build/my_package/install.log --single-version-externally-managed install_data

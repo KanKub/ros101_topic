@@ -1,0 +1,32 @@
+[0.494s] Invoking command in '/home/kan/ros2_test_ws/build/my_package': PYTHONPATH=/home/kan/ros2_test_ws/build/my_package/prefix_override:/home/kan/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/kan/ros2_test_ws/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/kan/ros2_test_ws/build/my_package/build --no-deps symlink_data --force
+[0.705s] running develop
+[0.705s] /home/kan/.local/lib/python3.10/site-packages/setuptools/command/develop.py:41: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[0.705s] !!
+[0.705s] 
+[0.705s]         ********************************************************************************
+[0.705s]         Please avoid running ``setup.py`` and ``easy_install``.
+[0.705s]         Instead, use pypa/build, pypa/installer or other
+[0.705s]         standards-based tools.
+[0.705s] 
+[0.706s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[0.706s]         ********************************************************************************
+[0.706s] 
+[0.706s] !!
+[0.706s]   easy_install.initialize_options(self)
+[0.848s] running egg_info
+[0.859s] writing my_package.egg-info/PKG-INFO
+[0.860s] writing dependency_links to my_package.egg-info/dependency_links.txt
+[0.860s] writing entry points to my_package.egg-info/entry_points.txt
+[0.860s] writing requirements to my_package.egg-info/requires.txt
+[0.860s] writing top-level names to my_package.egg-info/top_level.txt
+[0.881s] reading manifest file 'my_package.egg-info/SOURCES.txt'
+[0.882s] writing manifest file 'my_package.egg-info/SOURCES.txt'
+[0.893s] running build_ext
+[0.894s] Creating /home/kan/ros2_test_ws/install/my_package/lib/python3.10/site-packages/my-package.egg-link (link to .)
+[0.894s] Installing my_node script to /home/kan/ros2_test_ws/install/my_package/lib/my_package
+[0.894s] 
+[0.894s] Installed /home/kan/ros2_test_ws/build/my_package
+[0.894s] running symlink_data
+[0.894s] symbolically linking /home/kan/ros2_test_ws/build/my_package/resource/my_package -> /home/kan/ros2_test_ws/install/my_package/share/ament_index/resource_index/packages
+[0.894s] symbolically linking /home/kan/ros2_test_ws/build/my_package/package.xml -> /home/kan/ros2_test_ws/install/my_package/share/my_package
+[0.914s] Invoked command in '/home/kan/ros2_test_ws/build/my_package' returned '0': PYTHONPATH=/home/kan/ros2_test_ws/build/my_package/prefix_override:/home/kan/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/kan/ros2_test_ws/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/kan/ros2_test_ws/build/my_package/build --no-deps symlink_data --force

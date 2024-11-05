@@ -1,0 +1,4 @@
+[console_scripts]
+my_node_publisher = my_package.my_node_publisher:main
+my_node_subscriber = my_package.my_node_subscriber:main
+

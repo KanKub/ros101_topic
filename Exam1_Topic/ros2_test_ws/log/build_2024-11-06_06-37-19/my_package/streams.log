@@ -1,0 +1,17 @@
+[0.440s] Invoking command in '/home/kan/ros2_test_ws/build/my_package': PYTHONPATH=/home/kan/ros2_test_ws/build/my_package/prefix_override:/home/kan/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/kan/ros2_test_ws/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/kan/ros2_test_ws/build/my_package/build --no-deps symlink_data
+[0.622s] running develop
+[0.740s] running egg_info
+[0.741s] writing my_package.egg-info/PKG-INFO
+[0.741s] writing dependency_links to my_package.egg-info/dependency_links.txt
+[0.741s] writing entry points to my_package.egg-info/entry_points.txt
+[0.741s] writing requirements to my_package.egg-info/requires.txt
+[0.741s] writing top-level names to my_package.egg-info/top_level.txt
+[0.742s] reading manifest file 'my_package.egg-info/SOURCES.txt'
+[0.742s] writing manifest file 'my_package.egg-info/SOURCES.txt'
+[0.743s] running build_ext
+[0.743s] Creating /home/kan/ros2_test_ws/install/my_package/lib/python3.10/site-packages/my-package.egg-link (link to .)
+[0.744s] Installing my_node script to /home/kan/ros2_test_ws/install/my_package/lib/my_package
+[0.744s] 
+[0.744s] Installed /home/kan/ros2_test_ws/build/my_package
+[0.744s] running symlink_data
+[0.768s] Invoked command in '/home/kan/ros2_test_ws/build/my_package' returned '0': PYTHONPATH=/home/kan/ros2_test_ws/build/my_package/prefix_override:/home/kan/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/kan/ros2_test_ws/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/kan/ros2_test_ws/build/my_package/build --no-deps symlink_data
