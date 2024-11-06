@@ -1,0 +1,9 @@
+source;share/ex2_package/hook/pythonpath.ps1
+source;share/ex2_package/hook/pythonpath.dsv
+source;share/ex2_package/hook/pythonpath.sh
+source;share/ex2_package/hook/ament_prefix_path.ps1
+source;share/ex2_package/hook/ament_prefix_path.dsv
+source;share/ex2_package/hook/ament_prefix_path.sh
+source;../../build/ex2_package/share/ex2_package/hook/pythonpath_develop.ps1
+source;../../build/ex2_package/share/ex2_package/hook/pythonpath_develop.dsv
+source;../../build/ex2_package/share/ex2_package/hook/pythonpath_develop.sh

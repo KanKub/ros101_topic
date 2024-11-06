@@ -1,0 +1,24 @@
+[0.452s] Invoking command in '/home/kan/ros2_turtle3_ws/build/ex2_package': PYTHONPATH=/home/kan/ros2_turtle3_ws/build/ex2_package/prefix_override:/home/kan/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/kan/ros2_turtle3_ws/install/ex2_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/kan/ros2_turtle3_ws/build/ex2_package/build --no-deps symlink_data
+[0.634s] running develop
+[0.749s] running egg_info
+[0.749s] creating ex2_package.egg-info
+[0.750s] writing ex2_package.egg-info/PKG-INFO
+[0.750s] writing dependency_links to ex2_package.egg-info/dependency_links.txt
+[0.750s] writing entry points to ex2_package.egg-info/entry_points.txt
+[0.750s] writing requirements to ex2_package.egg-info/requires.txt
+[0.750s] writing top-level names to ex2_package.egg-info/top_level.txt
+[0.750s] writing manifest file 'ex2_package.egg-info/SOURCES.txt'
+[0.752s] reading manifest file 'ex2_package.egg-info/SOURCES.txt'
+[0.752s] writing manifest file 'ex2_package.egg-info/SOURCES.txt'
+[0.753s] running build_ext
+[0.753s] Creating /home/kan/ros2_turtle3_ws/install/ex2_package/lib/python3.10/site-packages/ex2-package.egg-link (link to .)
+[0.754s] Installing main_node script to /home/kan/ros2_turtle3_ws/install/ex2_package/lib/ex2_package
+[0.754s] 
+[0.754s] Installed /home/kan/ros2_turtle3_ws/build/ex2_package
+[0.754s] running symlink_data
+[0.754s] creating /home/kan/ros2_turtle3_ws/install/ex2_package/share/ament_index
+[0.754s] creating /home/kan/ros2_turtle3_ws/install/ex2_package/share/ament_index/resource_index
+[0.754s] creating /home/kan/ros2_turtle3_ws/install/ex2_package/share/ament_index/resource_index/packages
+[0.754s] symbolically linking /home/kan/ros2_turtle3_ws/build/ex2_package/resource/ex2_package -> /home/kan/ros2_turtle3_ws/install/ex2_package/share/ament_index/resource_index/packages
+[0.755s] symbolically linking /home/kan/ros2_turtle3_ws/build/ex2_package/package.xml -> /home/kan/ros2_turtle3_ws/install/ex2_package/share/ex2_package
+[0.774s] Invoked command in '/home/kan/ros2_turtle3_ws/build/ex2_package' returned '0': PYTHONPATH=/home/kan/ros2_turtle3_ws/build/ex2_package/prefix_override:/home/kan/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/kan/ros2_turtle3_ws/install/ex2_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/kan/ros2_turtle3_ws/build/ex2_package/build --no-deps symlink_data

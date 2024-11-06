@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+ex2_package/__init__.py
+ex2_package/main_node.py
+ex2_package.egg-info/PKG-INFO
+ex2_package.egg-info/SOURCES.txt
+ex2_package.egg-info/dependency_links.txt
+ex2_package.egg-info/entry_points.txt
+ex2_package.egg-info/requires.txt
+ex2_package.egg-info/top_level.txt
+ex2_package.egg-info/zip-safe
+resource/ex2_package

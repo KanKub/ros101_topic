@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating ex2_package.egg-info
+writing ex2_package.egg-info/PKG-INFO
+writing dependency_links to ex2_package.egg-info/dependency_links.txt
+writing entry points to ex2_package.egg-info/entry_points.txt
+writing requirements to ex2_package.egg-info/requires.txt
+writing top-level names to ex2_package.egg-info/top_level.txt
+writing manifest file 'ex2_package.egg-info/SOURCES.txt'
+reading manifest file 'ex2_package.egg-info/SOURCES.txt'
+writing manifest file 'ex2_package.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/kan/ros2_turtle3_ws/install/ex2_package/lib/python3.10/site-packages/ex2-package.egg-link (link to .)
+Installing main_node script to /home/kan/ros2_turtle3_ws/install/ex2_package/lib/ex2_package
+
+Installed /home/kan/ros2_turtle3_ws/build/ex2_package
+running symlink_data
+creating /home/kan/ros2_turtle3_ws/install/ex2_package/share/ament_index
+creating /home/kan/ros2_turtle3_ws/install/ex2_package/share/ament_index/resource_index
+creating /home/kan/ros2_turtle3_ws/install/ex2_package/share/ament_index/resource_index/packages
+symbolically linking /home/kan/ros2_turtle3_ws/build/ex2_package/resource/ex2_package -> /home/kan/ros2_turtle3_ws/install/ex2_package/share/ament_index/resource_index/packages
+symbolically linking /home/kan/ros2_turtle3_ws/build/ex2_package/package.xml -> /home/kan/ros2_turtle3_ws/install/ex2_package/share/ex2_package
